@@ -1,0 +1,28 @@
+h1, h3{
+    background-color: #e35336;
+    margin-left: 512px;
+    margin-right: 512px;
+    border-radius: 5px;
+}
+
+body{
+    background-image: url(Imagens/fundodetela.jpg);
+    align-items: center;
+    background-image: ;
+}
+
+.titulo{
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.titulo:hover{
+    color: red;
+    background-color: black;
+}
+table{
+    background-color: #e35336;
+    color: white;
+}
